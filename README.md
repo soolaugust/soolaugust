@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello nerds 👋
 
 <!--
 **soolaugust/soolaugust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am soolaugust, current working on development of next generation Medical AI Cloud platform. :hospital:
+
+I am coding with Java, Golang. current interested on docker and kubernetes. :running:
+
+If you want to know more about me, send email at soolaugust@gmail.com. :email: Any topic is welcomed.
