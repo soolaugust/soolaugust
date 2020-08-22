@@ -1,5 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=soolaugust&show_icons=true&count_private=true&theme=algolia" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=soolaugust&show_icons=true&count_private=true&theme=algolia" />
 
-## Focus ##
 ![](http://img.shields.io/badge/-webrtc-blue?style=flat&logo=webrtc)
 ![](http://img.shields.io/badge/-go-blue?style=blue&logo=go)
