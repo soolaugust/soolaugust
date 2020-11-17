@@ -3,4 +3,4 @@
 ![](http://img.shields.io/badge/-webrtc-blue?style=flat&logo=webrtc)
 ![](http://img.shields.io/badge/-go-blue?style=blue&logo=go)
 
-![](https://github-profile-trophy.vercel.app/?username=soolaugust&theme=flat&column=7&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=soolaugust&theme=flat&column=3&margin-w=80&margin-h=10)
